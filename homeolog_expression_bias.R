@@ -13,10 +13,8 @@
 #           (adjust file paths in the CONFIG section below)
 #
 #  Author : Nadeem Khan
-#  ORCID  : https://orcid.org/YOUR-ORCID
 #  Affil  : INRS–Centre Armand-Frappier Santé-Biotechnologie, Laval, QC, Canada
 #  Date   : 2025–2026
-#  License: MIT
 # ═══════════════════════════════════════════════════════════════════════════════
 
 suppressPackageStartupMessages({
