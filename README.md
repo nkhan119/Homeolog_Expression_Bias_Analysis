@@ -4,7 +4,7 @@
 
 ---
 
-## ✨ Features
+## Features
 
 - Loads pre-averaged TPM expression data for four tissues (Root, Stem, Leaf, Flower)
 - Computes pairwise **log₂ expression ratios** for all three subgenome comparisons: H vs St1 · H vs St2 · St1 vs St2
