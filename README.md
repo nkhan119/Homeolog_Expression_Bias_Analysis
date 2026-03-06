@@ -1,4 +1,4 @@
-# 🧬 Homeolog Expression Bias Analysis in Allopolyploids
+# Homeolog Expression Bias Analysis in Allopolyploids
 
 > Quantify and visualise subgenome expression dominance across tissues in allopolyploid species — comparing homeologous gene copies between the **H**, **St1**, and **St2** subgenomes.
 
